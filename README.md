@@ -1,6 +1,6 @@
-# top_level_navigation_1
+# top_level_navigation_2
 
-A Template for Top Level Navigation in Flutter. This template uses BottomNavigationBar's onTap callback function to navigate between three top level screens.
+A Template for Top Level Navigation in Flutter. This template uses flutter's PageView widget to navigate between three top level screens. Other than tapping on the bottom navigation bar to navigate to a screen, a user can swipe from one screen to the next.
 
 ## Getting Started
 
